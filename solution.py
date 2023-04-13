@@ -3,7 +3,7 @@ import numpy as np
 import statsmodels.stats.weightstats
 
 
-chat_id = 123456 # Ваш chat ID, не меняйте название переменной
+chat_id = 964993301 # Ваш chat ID, не меняйте название переменной
 
 def solution(x: np.array, y: np.array) -> bool:
     
